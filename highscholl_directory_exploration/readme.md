@@ -24,7 +24,7 @@ This project explored the **NYC High School Directory dataset** using **Python**
 4. **Visualizations:**
    Two bar charts were generated to highlight borough-level patterns:
 
-   * [Number of Schools per Borough](highscholl_directory_exploration/Number_of_Schools_per_Borough.png)
+   * [Number of Schools per Borough](Number_of_Schools_per_Borough.png)
    * [Number of Students per Borough](Number_of_Students_per_Borough.png)
 
 5. **Insights derived:**
