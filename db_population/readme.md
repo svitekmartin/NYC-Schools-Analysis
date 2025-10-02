@@ -1,4 +1,6 @@
-***NYC School SAT Scores — Data Engineering***
+**NYC School SAT Scores — Data Engineering**
+---
+
 
 **Objective**  
 Evaluate, clean, model, and load a real-world SAT results dataset into an existing PostgreSQL schema. Tasks included data inspection, key identification, consistency fixes, and a Python-based append into the target table.
